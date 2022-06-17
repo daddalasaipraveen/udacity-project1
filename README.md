@@ -1,4 +1,4 @@
-# udacity-project1
+# udacity-project1 - Build My World
 
 This project **“Build My World”** is to create a simulation world for all your projects in this Robotics Software Engineer Nanodegree Program.
 1.	Build a single floor wall structure using the Building Editor tool in Gazebo with at least one feature, one color, and optionally one texture to the structure.
